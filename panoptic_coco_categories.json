@@ -1,0 +1,16 @@
+[{"supercategory":  "person" ,"color": [220, 20, 60],"isthing": 1, "id": 1, "name": "person"},
+  {"supercategory": "vehicle","color": [0, 0, 142],"isthing": 1, "id": 2, "name": "car"},
+  {"supercategory": "vehicle","color": [0, 0, 192],"isthing": 1, "id": 3, "name": "boat"},
+  {"supercategory": "vehicle","color": [119, 11, 32],"isthing": 1, "id": 4, "name": "bicycle"},
+  {"supercategory": "vehicle","color": [29, 79, 114],"isthing": 1, "id": 5, "name": "wheelchair"},
+  {"supercategory": "null","color": [100, 170, 30],"isthing": 1, "id": 6, "name": "hydrant"},
+  {"supercategory": "null","color": [82, 178, 88],"isthing": 1, "id": 7, "name": "trushbin"},
+  {"supercategory": "null","color": [158, 143, 122], "isthing": 0, "id": 8, "name": "land"},
+  {"supercategory": "null","color": [118, 106, 106], "isthing": 0, "id": 9, "name": "road"},
+  {"supercategory": "null","color": [107, 142, 35], "isthing": 0, "id": 10, "name": "vegetation"},
+  {"supercategory": "null","color": [236, 190, 130],"isthing": 0, "id": 11, "name": "beach"},
+  {"supercategory": "null","color": [88, 97, 80],"isthing": 0, "id": 12, "name": "seaweed"},
+  {"supercategory": "null","color": [46, 95, 151],"isthing": 0, "id": 13, "name": "building"},
+  {"supercategory": "tree","color": [255, 174, 201], "isthing": 0, "id": 14, "name": "sakura"},
+  {"supercategory": "null","color": [164, 152, 154],"isthing": 0, "id": 15, "name": "sidewalk"}
+]
